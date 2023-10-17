@@ -38,9 +38,9 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
   - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a)
 [code](https://github.com/billkarsh/CatGT)
 - Common-average-referencing (gets rid of noise): 
-  - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a) https://github.com/billkarsh/CatGT
+  - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a) [CatGT](https://github.com/billkarsh/CatGT)
   - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096)
- https://github.com/cortex-lab/spikes/blob/master/preprocessing/applyCARtoDat.m
+ [CAR](https://github.com/cortex-lab/spikes/blob/master/preprocessing/applyCARtoDat.m)
 - Data compression/decompression:
   - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [compression/decompression](https://github.com/int-brain-lab/mtscomp)
   - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [decompression](https://github.com/Julie-Fabre/bombcell/blob/master/decompressData/bc_extractCbinData.m)
