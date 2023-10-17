@@ -7,10 +7,13 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 <!-- START_TOC -->
 
 * [Contents](#contents)
+* [Community](#community)
+* [Neuropixels papers](#neuropixels_papers)
 * [Data acquisition](#data_acquisition)
 * [Data preprocessing](#data_preprocessing)
 * [Spike-sorting](#spike_sorting)
 * [Quality control](#quality_control)
+* [Tracking cells across days](#tracking_cells_over_days)
 * [Loading and plotting data](#loading_and_plotting_data)
 * [Trajectory planning and histology](#trajectory_planning_and_histology)
 * [General frameworks](#general_frameworks)
@@ -53,7 +56,10 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/)
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Quality metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki) 
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) / ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
-  
+
+# Tracking cells over days
+- [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.biorxiv.org/content/10.1101/2023.10.12.562040v1.full.pdf)
+
 # Loading and plotting data
 - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [NeuroPyxels](https://github.com/m-beau/NeuroPyxels)
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Spikes](https://github.com/cortex-lab/spikes)
