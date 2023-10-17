@@ -29,7 +29,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 # Data acquisition
 - [SpikeGLX](https://github.com/billkarsh/SpikeGLX)
-- [SpikeGLX](Open Ephys: https://github.com/open-ephys)
+- [Open Ephys](https://github.com/open-ephys)
 - [Aligning channels to each other](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), arduino code [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
 
 # Data preprocessing
