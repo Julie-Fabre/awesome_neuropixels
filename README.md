@@ -28,12 +28,12 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
 
 # Data acquisition
-- [SpikeGLX](https://github.com/billkarsh/SpikeGLX)
-- [Open Ephys](https://github.com/open-ephys)
-- [Aligning channels to each other](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), arduino code [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
+- [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
+- [Open Ephys GUI](https://open-ephys.org/gui)
+- [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
 
 # Data preprocessing
-- Aligning Neuropixels channels to each other:
+- Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   - details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
   - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a)
 [code](https://github.com/billkarsh/CatGT)
