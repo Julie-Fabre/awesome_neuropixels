@@ -18,50 +18,58 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 
 <!-- END_TOC -->
+# Community
+- [Neuropixels slack](https://app.slack.com/client/T93QUDDCM)
+
+# Neuropixels papers 
+- [Neuropixels 1.0](https://www.nature.com/articles/nature24636/)
+- [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588)
+- [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
+- [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
 
 # Data acquisition
-- SpikeGLX: https://github.com/billkarsh/SpikeGLX 
-- Open Ephys: https://github.com/open-ephys
-- Aligning channels to each other: https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html, arduino code here:  https://github.com/cortex-lab/neuropixels/wiki/Synchronization
+- [SpikeGLX](https://github.com/billkarsh/SpikeGLX)
+- [SpikeGLX](Open Ephys: https://github.com/open-ephys)
+- [Aligning channels to each other](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), arduino code [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
 
 # Data preprocessing
 - Aligning Neuropixels channels to each other:
-  - details here: https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/
+  - details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
   - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a)
-code : https://github.com/billkarsh/CatGT 
+[code](https://github.com/billkarsh/CatGT)
 - Common-average-referencing (gets rid of noise): 
   - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a): https://github.com/billkarsh/CatGT
   - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096)
  https://github.com/cortex-lab/spikes/blob/master/preprocessing/applyCARtoDat.m
 - Data compression/decompression:
-  - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) compression/decomprssion: https://github.com/int-brain-lab/mtscomp
-  - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) decompression: https://github.com/Julie-Fabre/bombcell/blob/master/decompressData/bc_extractCbinData.m
+  - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [compression/decompression](https://github.com/int-brain-lab/mtscomp)
+  - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [decompression](https://github.com/Julie-Fabre/bombcell/blob/master/decompressData/bc_extractCbinData.m)
 
 # Spike-sorting 
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) Kilosort 2/2.5/3 : https://github.com/MouseLand/Kilosort
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) Python port of Kilosort 2.5: https://github.com/int-brain-lab/pykilosort , white paper: https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3 
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Kilosort 2/2.5/3](https://github.com/MouseLand/Kilosort)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
   
 # Quality control 
-- Manual curation GUI: https://github.com/cortex-lab/phy, docs: https://phy.readthedocs.io/en/latest/
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) Quality metrics: https://github.com/Julie-Fabre/bombcell, wiki: https://github.com/Julie-Fabre/bombcell/wiki 
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) / ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) IBL quality metrics: https://github.com/SteinmetzLab/qualityMetrics 
+- Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/)
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Quality metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki) 
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) / ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
   
 # Loading and plotting data
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): https://github.com/m-beau/NeuroPyxels
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) https://github.com/cortex-lab/spikes
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): [NeuroPyxels](https://github.com/m-beau/NeuroPyxels)
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Spikes](https://github.com/cortex-lab/spikes)
 
 # Trajectory planning
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096): https://github.com/petersaj/neuropixels_trajectory_explorer
-- ![icons8-web-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b0cee380-c778-4889-b6c4-3ebb5bc908cd): Pinpoint https://github.com/VirtualBrainLab/Pinpoint
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): HERBS https://github.com/Whitlock-Group/HERBS
+- ![icons8-web-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b0cee380-c778-4889-b6c4-3ebb5bc908cd): [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): [HERBS](https://github.com/Whitlock-Group/HERBS)
 
 # Histology
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096): HERBS https://github.com/Whitlock-Group/HERBS
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): Brainglobe https://brainglobe.info/index.html 
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096): [HERBS](https://github.com/Whitlock-Group/HERBS)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932): [Brainglobe](https://brainglobe.info/index.html)
   
 # General frameworks that incorporate many of these steps
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) loading, preprocessing, trying different spike-sorters, quality metrics, ... https://github.com/SpikeInterface
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) loading, preprocessing, quality metrics: https://github.com/AllenInstitute/ecephys_spike_sorting, fork specifically tailored to spikeGLX data: https://github.com/jenniferColonell/ecephys_spike_sorting
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [SpikeInterface](https://github.com/SpikeInterface)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
 
 # Courses and talks 
 - **Ongoing: 2023 October - UCL Neuropixels Course 2023: [more information and signup](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course)**
