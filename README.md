@@ -79,7 +79,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
 
 # Courses and talks 
-- **Ongoing: 2023 October - UCL Neuropixels Course 2023: [more information and signup](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course)**
+- **2023 October - [UCL Neuropixels Course 2023](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course)**
 - **2022 October - [UCL Neuropixels Course 2022](https://www.ucl.ac.uk/neuropixels/training/2022-intro-neuropixels-course)**
 - **2021 October - [UCL Neuropixels Course 2021](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)**
 - _2020 July - University of Strathclyde_
