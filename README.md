@@ -2,7 +2,7 @@
 
 A curated list of awesome Neuropixels resources, in no particular order. Create a pull request or raise a github issue to add any resources to this list. 
 
-# Contents
+## Contents
 
 <!-- START_TOC -->
 
