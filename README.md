@@ -40,12 +40,12 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - _2018 April - [UCL Neuropixels Course 2018](http://www.ucl.ac.uk/neuropixels/courses/2018-course)_
 - _2017 May - [UCL Neuropixels Course 2017](http://www.ucl.ac.uk/neuropixels/courses/2017-course)_
 
-
 ## Data acquisition
 - [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 - [Open Ephys GUI](https://open-ephys.org/gui)
 - [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
-- [Generating IMROs and channel maps](https://github.com/Julie-Fabre/neuropixels_site_selection)
+- [Generating IMROs and channel maps - scripts](https://github.com/Julie-Fabre/neuropixels_site_selection)
+- Generating IMROs and channel maps - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937))
   
 ## Data preprocessing
 - Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
