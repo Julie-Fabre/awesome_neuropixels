@@ -8,7 +8,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 * [Contents](#contents)
 * [Community](#community)
-* [Neuropixels papers](#neuropixels_papers)
+* [Neuropixels papers and manuals](#neuropixels_papers_and_manuals)
 * [Courses, talks and videos](#courses_talks_and_videos)
 * [Data acquisition](#data_acquisition)
 * [Data preprocessing](#data_preprocessing)
@@ -25,7 +25,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 ## Community
 - [Neuropixels slack](https://app.slack.com/client/T93QUDDCM)
 
-## Neuropixels papers 
+## Neuropixels papers and manuals
 - [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
 - [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf)
 - [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
