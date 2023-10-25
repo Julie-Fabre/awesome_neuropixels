@@ -27,7 +27,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 ## Neuropixels papers 
 - [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
-- [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588)
+- [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf)
 - [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
 - [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
 
