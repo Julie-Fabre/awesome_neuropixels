@@ -45,7 +45,8 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 - [Open Ephys GUI](https://open-ephys.org/gui)
 - [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
-
+- [Generating IMROs and channel maps](https://github.com/Julie-Fabre/neuropixels_site_selection)
+  
 ## Data preprocessing
 - Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   - details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
