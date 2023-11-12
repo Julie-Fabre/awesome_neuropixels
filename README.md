@@ -42,7 +42,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - _2018 April - [UCL Neuropixels Course 2018](http://www.ucl.ac.uk/neuropixels/courses/2018-course)_
 - _2017 May - [UCL Neuropixels Course 2017](http://www.ucl.ac.uk/neuropixels/courses/2017-course)_
 
-## Probe setup, care and sharpeninghttps://github.com/cortex-lab/neuropixels/wiki/Probe_care
+## Probe setup, care and sharpening
 - [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening)
 - [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care)
   
