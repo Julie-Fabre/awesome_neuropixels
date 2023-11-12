@@ -10,6 +10,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Community](#community)
 * [Neuropixels papers and manuals](#neuropixels_papers_and_manuals)
 * [Courses, talks and videos](#courses_talks_and_videos)
+* [Probe setup, care and sharpening](#probe_setup,_care_and_sharpening)
 * [Data acquisition](#data_acquisition)
 * [Data preprocessing](#data_preprocessing)
 * [Spike-sorting](#spike_sorting)
@@ -41,7 +42,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - _2018 April - [UCL Neuropixels Course 2018](http://www.ucl.ac.uk/neuropixels/courses/2018-course)_
 - _2017 May - [UCL Neuropixels Course 2017](http://www.ucl.ac.uk/neuropixels/courses/2017-course)_
 
-## Setting up the probes 
+## Probe setup, care and sharpeninghttps://github.com/cortex-lab/neuropixels/wiki/Probe_care
 - [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening)
 - [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care)
   
