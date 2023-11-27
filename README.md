@@ -5,8 +5,6 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 ## Contents
 
 <!-- START_TOC -->
-
-* [Contents](#contents)
 * [Community](#community)
 * [Neuropixels papers and manuals](#neuropixels_papers_and_manuals)
 * [Courses, talks and videos](#courses_talks_and_videos)
@@ -19,10 +17,8 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Loading and plotting data](#loading_and_plotting_data)
 * [Trajectory planning and histology](#trajectory_planning_and_histology)
 * [General frameworks](#general_frameworks)
-
-
-
 <!-- END_TOC -->
+
 ## Community
 - [Neuropixels slack](https://app.slack.com/client/T93QUDDCM)
 
