@@ -51,6 +51,7 @@ Recoverable implants:
 - [van Daal/Haesler impant](https://www.nature.com/articles/s41596-021-00539-9)
 - [Juavinett/Churchland implant](https://elifesciences.org/articles/47188)
 - [Luo/Brody implant](https://elifesciences.org/articles/59716)
+  
 Non recoverable implants:
 - See [Steinmetz et al., 2019](https://www.science.org/doi/10.1126/science.abf4588)
   
