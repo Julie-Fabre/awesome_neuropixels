@@ -9,6 +9,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Neuropixels papers and manuals](#neuropixels_papers_and_manuals)
 * [Courses, talks and videos](#courses_talks_and_videos)
 * [Probe setup, care and sharpening](#probe_setup,_care_and_sharpening)
+* [Chronic implants](#chronic_implants)
 * [Data acquisition](#data_acquisition)
 * [Data preprocessing](#data_preprocessing)
 * [Spike-sorting](#spike_sorting)
@@ -41,6 +42,17 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 ## Probe setup, care and sharpening
 - [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening)
 - [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care)
+
+## Chronic implants 
+
+Recoverable implants:
+- [Apollo implant](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.full.pdf)
+- [Aery Jones implant](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/)
+- [van Daal/Haesler impant](https://www.nature.com/articles/s41596-021-00539-9)
+- [Juavinett/Churchland implant](https://elifesciences.org/articles/47188)
+- [Luo/Brody implant](https://elifesciences.org/articles/59716)
+Non recoverable implants:
+- See [Steinmetz et al., 2019](https://www.science.org/doi/10.1126/science.abf4588)
   
 ## Data acquisition
 - [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
