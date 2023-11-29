@@ -46,11 +46,13 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 ## Chronic implants 
 
 Recoverable implants:
-- [Apollo implant](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.full.pdf)
-- [Aery Jones implant](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/)
-- [van Daal/Haesler impant](https://www.nature.com/articles/s41596-021-00539-9)
-- [Juavinett/Churchland implant](https://elifesciences.org/articles/47188)
-- [Luo/Brody implant](https://elifesciences.org/articles/59716)
+- Melin & Couto implant, Churchland lab ([GitHub page](https://github.com/spkware/chronic_holder))
+- Aery Jones implant, Giocomo lab ([protocol](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/))
+- Apollo (Bimbard & Coen) implant, Carandini/Harris lab ([paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.full.pdf), [GitHub page](https://github.com/Coen-Lab/chronic-neuropixels))
+- Ghestem implant, Ferraris lab ([paper](https://iopscience.iop.org/article/10.1088/1741-2552/ace218), [GitHub page](https://github.com/INS-PhysioNet/npx-ghestem))
+- van Daal, Aydin & Michon implant, Haesler lab ([paper](https://www.nature.com/articles/s41596-021-00539-9), [GitHub page](https://github.com/nerf-common/chronic-neuropixels-protocol))
+- Luo & Bondy implant, Brody lab ([paper](https://elifesciences.org/articles/59716), [GitHub page](https://github.com/Brody-Lab/chronic_neuropixels))
+- Juavinett implant, Churchland lab ([paper](https://elifesciences.org/articles/47188), [GitHub page](https://github.com/churchlandlab/ChronicNeuropixels))
   
 Non recoverable implants:
 - See [Steinmetz et al., 2019](https://www.science.org/doi/10.1126/science.abf4588)
