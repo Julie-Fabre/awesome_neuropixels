@@ -95,7 +95,7 @@ Non recoverable implants:
 
 ## Classifying cell types 
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) Striatal and cortical cell types: [Bombcell](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki) 
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Cerebellar cell types](https://www.biorxiv.org/content/10.1101/2024.01.30.577845v1)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Cerebellar cell types](https://www.biorxiv.org/content/10.1101/2024.01.30.577845v2) (code not available yet, coming soon!) 
   
 ## Tracking cells over days
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.biorxiv.org/content/10.1101/2023.10.12.562040v1.full.pdf)
