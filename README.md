@@ -50,7 +50,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 Recoverable implants:
 - Melin & Couto implant, Churchland lab ([GitHub page](https://github.com/spkware/chronic_holder))
 - Aery Jones implant, Giocomo lab ([protocol](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/))
-- Apollo (Bimbard & Coen) implant, Carandini/Harris lab ([paper](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.full.pdf), [GitHub page](https://github.com/Coen-Lab/chronic-neuropixels))
+- Apollo (Bimbard & Coen) implant, Carandini/Harris lab ([paper](https://elifesciences.org/reviewed-preprints/98522), [GitHub page](https://github.com/Coen-Lab/chronic-neuropixels))
 - Ghestem implant, Ferraris lab ([paper](https://iopscience.iop.org/article/10.1088/1741-2552/ace218), [GitHub page](https://github.com/INS-PhysioNet/npx-ghestem))
 - van Daal, Aydin & Michon implant, Haesler lab ([paper](https://www.nature.com/articles/s41596-021-00539-9), [GitHub page](https://github.com/nerf-common/chronic-neuropixels-protocol))
 - Aydin & van Daal, Neuropixels 2.0 implant, Haesler lab ([paper](https://www.science.org/doi/full/10.1126/science.abf4588), [citation](https://zenodo.org/records/4564136), [GitHub page](https://github.com/nerf-common/chronic-neuropixels2))
