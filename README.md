@@ -116,6 +116,8 @@ Non recoverable implants:
 
 - atlases:
   - [Allen Brain Atlases - includes adult mouse, developing mouse, mouse spinal cord, adult human and developing human](https://atlas.brain-map.org/)
+  - [Paxinos & Franklin, ed. 2](https://www.researchgate.net/profile/Eva_Troyano_Rodriguez/post/Could_someone_provide_me_with_the_mouse_brain_atlas_by_Paxinos_and_Franklin_please/attachment/59d62d7e79197b807798bc53/AS:350559606460416@1460591331585/download/The+mouse+brain+in+stereotaxic+coordinates.pdf)
+  - [Allen + Franklin&Paxinos unified Atlas - Chon et al.](https://www.nature.com/articles/s41467-019-13057-w)
   - [Waxholm Space Atlas of the Sprague Dawley Rat Brain (adult)](https://www.nitrc.org/projects/whs-sd-atlas)
 
 ## Histology
