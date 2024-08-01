@@ -108,13 +108,13 @@ Non recoverable implants:
 
 ## Trajectory planning
 - 3D trajectory planning tools (
-⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas and they disagree with other standard Atlases like Franklin & Paxinos. This is because the Allen CCF atlas is not the size of the average mouse brain, and the tilt of the atlas is not levelled in bregma and lambda. To correct for these, scaling and tilt values have been approximated but they still disagree significantly with the Franklin & Paxinos Atlas. ⚠️ )
+⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. This is because the Allen CCF atlas is not the size of the average mouse brain, and the tilt of the atlas is not leveled at bregma and lambda. To correct for these, scaling and tilt values have been approximated, but they still disagree significantly with the Franklin & Paxinos Atlas. ⚠️ )
   - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Neuropixels Trajectory Explorer](https://github.com/petersaj/neuropixels_trajectory_explorer)
   - ![icons8-web-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b0cee380-c778-4889-b6c4-3ebb5bc908cd) [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)
   - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [HERBS](https://github.com/Whitlock-Group/HERBS)
 
 - atlases:
-  - [Allen Brain Atlases - includes adult mouse, developing mouse, mouse spinal cord, adult human and developing human](https://atlas.brain-map.org/)
+  - [Allen Brain Atlases - includes adult mouse, developing mouse, mouse spinal cord, adult human, and developing human](https://atlas.brain-map.org/)
   - [Mouse (adult) Franklin & Paxinos, ed. 2](https://www.researchgate.net/profile/Eva_Troyano_Rodriguez/post/Could_someone_provide_me_with_the_mouse_brain_atlas_by_Paxinos_and_Franklin_please/attachment/59d62d7e79197b807798bc53/AS:350559606460416@1460591331585/download/The+mouse+brain+in+stereotaxic+coordinates.pdf)
   - [Mouse (adult) Allen + Franklin&Paxinos unified Atlas - Chon et al.](https://www.nature.com/articles/s41467-019-13057-w)
   - [Sprague Dawley rat (adult) Waxholm](https://www.nitrc.org/projects/whs-sd-atlas)
