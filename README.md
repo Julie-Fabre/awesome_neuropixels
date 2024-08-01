@@ -64,12 +64,12 @@ Non recoverable implants:
 - [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 - [Open Ephys GUI](https://open-ephys.org/gui)
 - [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
-- [Generating IMROs and channel maps - scripts](https://github.com/Julie-Fabre/neuropixels_site_selection)
 - Generating IMROs and channel maps - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937)
 - [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/Some_tips_to_reduce_noise.md)
 - [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/Some_tips_to_seperate_shanks_from_each_other.md)
   
 ## Data preprocessing
+- [Getting a channel map for spike-sorting based on your IMRO (spikeGLX)](https://github.com/jenniferColonell/SGLXMetaToCoords)
 - Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   - details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
   - ![icons8-binary-file-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/0715213f-4c33-4ef7-adb4-374e7575c73a)
