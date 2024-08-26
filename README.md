@@ -6,19 +6,19 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 <!-- START_TOC -->
 * [Community](#community)
-* [Neuropixels papers and manuals](#neuropixels_papers_and_manuals)
-* [Courses, talks and videos](#courses_talks_and_videos)
-* [Probe setup, care and sharpening](#probe_setup,_care_and_sharpening)
-* [Chronic implants](#chronic_implants)
-* [Data acquisition](#data_acquisition)
-* [Data preprocessing](#data_preprocessing)
-* [Spike-sorting](#spike_sorting)
-* [Quality control](#quality_control)
-* [Classifying cell types](#classifying_cell_types)
-* [Tracking cells across days](#tracking_cells_over_days)
-* [Loading and plotting data](#loading_and_plotting_data)
-* [Trajectory planning and histology](#trajectory_planning_and_histology)
-* [General frameworks](#general_frameworks)
+* [Neuropixels papers and manuals](#neuropixels-papers-and-manuals)
+* [Courses, talks and videos](#courses-talks-and-videos)
+* [Probe setup, care and sharpening](#probe-setup,-care-and-sharpening)
+* [Chronic implants](#chronic-implants)
+* [Data acquisition](#data-acquisition)
+* [Data preprocessing](#data-preprocessing)
+* [Spike-sorting](#spike-sorting)
+* [Quality control](#quality-control)
+* [Classifying cell types](#classifying-cell-types)
+* [Tracking cells across days](#tracking-cells-over-days)
+* [Loading and plotting data](#loading-and-plotting-data)
+* [Trajectory planning and histology](#trajectory-planning-and-histology)
+* [General frameworks](#general-frameworks)
 <!-- END_TOC -->
 
 ## Community
