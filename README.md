@@ -8,7 +8,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Community](#community)
 * [Neuropixels papers and manuals](#neuropixels-papers-and-manuals)
 * [Courses, talks and videos](#courses-talks-and-videos)
-* [Probe setup, care and sharpening](#probe-setup,-care-and-sharpening)
+* [Probe setup, care and sharpening](#probe-setup-care-and-sharpening)
 * [Chronic implants](#chronic-implants)
 * [Data acquisition](#data-acquisition)
 * [Data preprocessing](#data-preprocessing)
