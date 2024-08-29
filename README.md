@@ -11,6 +11,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Probe setup, care and sharpening](#probe-setup-care-and-sharpening)
 * [Chronic implants](#chronic-implants)
 * [Data acquisition](#data-acquisition)
+* [General frameworks](#General-frameworks-that-many-incorporate-of-the-steps-below)
 * [Data preprocessing](#data-preprocessing)
 * [Spike-sorting](#spike-sorting)
 * [Quality control](#quality-control)
@@ -18,7 +19,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 * [Tracking cells across days](#tracking-cells-over-days)
 * [Loading and plotting data](#loading-and-plotting-data)
 * [Trajectory planning and histology](#trajectory-planning-and-histology)
-* [General frameworks](#general-frameworks)
+
 <!-- END_TOC -->
 
 ## Community
@@ -68,7 +69,11 @@ Non recoverable implants:
 - Generating IMROs and channel maps - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937)
 - [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/Some_tips_to_reduce_noise.md)
 - [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/Some_tips_to_seperate_shanks_from_each_other.md)
-  
+
+## General frameworks that incorporate many of the steps below
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [SpikeInterface](https://github.com/SpikeInterface)
+- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
+
 ## Data preprocessing
 - [Getting a channel map for spike-sorting based on your IMRO (spikeGLX)](https://github.com/jenniferColonell/SGLXMetaToCoords)
 - Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
@@ -126,7 +131,4 @@ Non recoverable implants:
 - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [HERBS](https://github.com/Whitlock-Group/HERBS)
 
   
-## General frameworks that incorporate many of these steps
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [SpikeInterface](https://github.com/SpikeInterface)
-- ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
 
