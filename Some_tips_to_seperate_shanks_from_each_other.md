@@ -6,4 +6,4 @@ Some things that can help are:
 - using a small drop of water at the tip of a pipette to physically separate
 the shank (using surface tension) under a microscope
 - alternating between IPA and dH20 baths
-- As a last resort, you can attempt to seperate the shanks manually or sonicate the shanks, but both of these are more likely to result in breakage
+- As a last resort, you can attempt to seperate the shanks manually (using a thing needle, parafilm, hair of a hairbrush for instance) or sonicate the shanks, but both of these are more likely to result in breakage
