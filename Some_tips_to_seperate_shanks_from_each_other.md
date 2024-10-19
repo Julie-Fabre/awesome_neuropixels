@@ -1,4 +1,4 @@
-When using 4-shank probes, or if you use dual probes (two probe cemented to each other front-to-front), shanks can bcome clumped together. 
+When using 4-shank probes, or if you use dual probes (two probe cemented to each other front-to-front), shanks can become clumped together. 
 This usually happens when there is some organic matter on the shanks. 
 Some things that can help are: 
 - leaving the probes shanks in a solution of 1% tergazyme, followed by rinsing the probes in DH20. 
