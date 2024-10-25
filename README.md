@@ -33,9 +33,10 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
 
 ## Courses, talks and videos
+- **2024 October - [UCL Neuropixels Course 2024](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course)**, youtube videos coming soon. 
 - **2023 October - [UCL Neuropixels Course 2023](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course)**, [youtube videos](https://www.youtube.com/watch?v=epxx_w2mhhg&list=PLfhWmWntvjl4Wi-K9Wx1Wx3WkCqpHnwaQ)
 - **2022 October - [UCL Neuropixels Course 2022](https://www.ucl.ac.uk/neuropixels/training/2022-intro-neuropixels-course)**, [youtube videos](https://www.youtube.com/watch?v=koukfLPyPSc&list=PLfhWmWntvjl7fpEDt-Ip8phYETFGUQDXc)
-- **2021  October - [UCL Neuropixels Course 2021 ](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)**, [youtube videos](https://www.youtube.com/watch?v=KBjwNRp41T4&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb)
+- **2021 October - [UCL Neuropixels Course 2021 ](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)**, [youtube videos](https://www.youtube.com/watch?v=KBjwNRp41T4&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb)
 - _2020 April - [UCL Neuropixels Course 2020](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course)_, [youtube videos](https://www.youtube.com/watch?v=5pAI3Rs_GTg&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB)
 - _2019 April - [UCL Neuropixels Course 2019](http://www.ucl.ac.uk/neuropixels/courses/2019-course)_
 - _2018 April - [UCL Neuropixels Course 2018](http://www.ucl.ac.uk/neuropixels/courses/2018-course)_
@@ -104,7 +105,7 @@ Non recoverable implants:
 - ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [Cerebellar cell types](https://www.biorxiv.org/content/10.1101/2024.01.30.577845v2) (code not available yet, coming soon!) 
   
 ## Tracking cells over days
-- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096)/![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+- ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) / ![icons8-python-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/b80293ba-3ab1-4b9c-89c5-16a329bcb932) [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 - ![icons8-matlab-20](https://github.com/Julie-Fabre/awesome-neuropixels/assets/29582008/1a18a394-f415-445e-9519-44787ce09096) [Neuron_Tracking](https://github.com/AugustineY07/Neuron_Tracking), paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
 
 ## Loading and plotting data
