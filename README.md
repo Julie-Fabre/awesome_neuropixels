@@ -76,6 +76,7 @@ Non recoverable implants:
 - <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
 
 ## Data preprocessing
+- <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Functions to read spikeGLX outputs](https://github.com/jenniferColonell/SpikeGLX_Datafile_Tools)
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Getting a channel map for spike-sorting based on your IMRO (spikeGLX)](https://github.com/jenniferColonell/SGLXMetaToCoords)
 - Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   - details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
