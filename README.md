@@ -96,7 +96,7 @@ Non recoverable implants:
   
 ## Quality control 
 - <img src="./images/matlab.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki), [talk](https://www.youtube.com/watch?v=8Gauba3KzvM&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB&index=12) at the annual Neuropixels course about quality control.
-- Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/manualCurationPhyWorkflow.md).
+- <img src="./images/terminal.svg" width="3%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/manualCurationPhyWorkflow.md).
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
 
 ## Classifying cell types 
@@ -119,7 +119,7 @@ Non recoverable implants:
   - <img src="./images/web.svg" width="3%"> [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)
   - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
 
-- atlases:
+- <img src="./images/map.svg" width="3%"> atlases:
   - [Allen Brain Atlases - includes adult mouse, developing mouse, mouse spinal cord, adult human, and developing human](https://atlas.brain-map.org/)
   - [Mouse (adult) Franklin & Paxinos, ed. 2](https://www.researchgate.net/profile/Eva_Troyano_Rodriguez/post/Could_someone_provide_me_with_the_mouse_brain_atlas_by_Paxinos_and_Franklin_please/attachment/59d62d7e79197b807798bc53/AS:350559606460416@1460591331585/download/The+mouse+brain+in+stereotaxic+coordinates.pdf)
   - [Mouse (adult) Allen + Franklin&Paxinos unified Atlas - Chon et al.](https://www.nature.com/articles/s41467-019-13057-w)
