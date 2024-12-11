@@ -46,7 +46,8 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 - [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening)
 - [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care)
 - [Slack thread about how to store probes](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1699504147935669), and [files for a wall-mounted enclorsure](https://github.com/MarinManuel/NeuropixelsEnclosure)
-
+- [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md)
+  
 ## Chronic implants 
 
 Recoverable implants:
@@ -68,8 +69,7 @@ Non recoverable implants:
 - [Open Ephys GUI](https://open-ephys.org/gui)
 - [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization). 
 - Generating IMROs and channel maps - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937)
-- [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/Some_tips_to_reduce_noise.md)
-- [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/Some_tips_to_seperate_shanks_from_each_other.md)
+- [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md)
 
 ## General frameworks that incorporate many of the steps below
 - <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
