@@ -3,9 +3,9 @@ This usually happens when there is some organic matter on the shanks.
 
 Some things that can help are: 
 - leaving the shanks in a solution of 1% tergazyme (several hours or overnight should be enough), followed by rinsing the probes in dH20.
-- alternating between IPA and dH20 baths.
-- using a small drop of water at the tip of a pipette to physically separate
-the shank (using surface tension) under a microscope. Make sure only the drop of water and not the pipette tip, touches the shanks
+- alternating between IPA (removing the probe slowly) and dH20 baths.
+- running a small drop of water (at the end of a pipette tip) across the length of the shanks to physically separate
+the shanks (using surface tension) under a microscope. Make sure only the drop of water, not the pipette tip, touches the shanks. 
 
 You can also combine these different strategies.
 
