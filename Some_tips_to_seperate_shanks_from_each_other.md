@@ -6,6 +6,7 @@ Some things that can help are:
 - alternating between IPA and dH20 baths.
 - using a small drop of water at the tip of a pipette to physically separate
 the shank (using surface tension) under a microscope. Make sure only the drop of water and not the pipette tip, touches the shanks
+
 You can also combine these different strategies.
 
 As a *last* resort, you can attempt:
