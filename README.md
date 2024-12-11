@@ -45,7 +45,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 ## Probe setup, care and sharpening
 - [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening)
 - [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care)
-- [Slack thread about how to store probes](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1699504147935669), and [files for a wall-mounted enclorsure](https://github.com/MarinManuel/NeuropixelsEnclosure)
+- [Slack thread about how to store probes](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1699504147935669), and [files for a wall-mounted enclosure](https://github.com/MarinManuel/NeuropixelsEnclosure)
 - [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md)
   
 ## Chronic implants 
