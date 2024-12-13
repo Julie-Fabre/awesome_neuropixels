@@ -116,7 +116,7 @@ Non recoverable implants:
 
 ## Trajectory planning
 - 3D trajectory planning tools (
-⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. MOre information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⚠️ )
+⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. More information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⚠️ )
   - <img src="./images/matlab.svg" width="3%"> [Neuropixels Trajectory Explorer](https://github.com/petersaj/neuropixels_trajectory_explorer)
   - <img src="./images/web.svg" width="3%"> [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)
   - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
