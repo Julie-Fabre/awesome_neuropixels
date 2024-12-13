@@ -4,4 +4,4 @@ To correct for these:
 - scaling has been approximated based on this MRI data: https://www.nature.com/articles/s41467-018-04921-2
 - tilt values have been approximated based on empiral estimated from the IBL: https://www.biorxiv.org/content/10.1101/2022.05.09.491042v6 (figure 2f). The tilt for cerebrum regions still disagrees significantly with the Franklin & Paxinos Atlas, by around an additional 5*:
 
-<img src="./images/tilt.svg" width="100%">
+<img src="./images/tilt.png" width="100%">
