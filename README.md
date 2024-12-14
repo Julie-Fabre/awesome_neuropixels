@@ -74,7 +74,7 @@ Non recoverable implants:
 ## General frameworks that incorporate many of the steps below
 - <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
 - <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting), [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting)
-- <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline)_
+- <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline)
 
 ## Data preprocessing
 - SpikeGLX:
