@@ -34,9 +34,9 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 
 ## Courses, talks and videos
 - **2024 October - [UCL Neuropixels Course 2024](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://youtube.com/playlist?list=PLfhWmWntvjl7SYCcrM5Qy1RFIiIIO6MK-&si=Eol8yHf8PbgLsqc3)
-- **2023 October - [UCL Neuropixels Course 2023](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=epxx_w2mhhg&list=PLfhWmWntvjl4Wi-K9Wx1Wx3WkCqpHnwaQ)
+- 2023 October - [UCL Neuropixels Course 2023](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course), [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=epxx_w2mhhg&list=PLfhWmWntvjl4Wi-K9Wx1Wx3WkCqpHnwaQ)
 - _2022 October - [UCL Neuropixels Course 2022](https://www.ucl.ac.uk/neuropixels/training/2022-intro-neuropixels-course)_, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=koukfLPyPSc&list=PLfhWmWntvjl7fpEDt-Ip8phYETFGUQDXc)
-- **2021 October - [UCL Neuropixels Course 2021 ](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=KBjwNRp41T4&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb)
+- _2021 October - [UCL Neuropixels Course 2021 ](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)_, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=KBjwNRp41T4&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb)
 - _2020 April - [UCL Neuropixels Course 2020](https://www.ucl.ac.uk/neuropixels/training/2020-neuropixels-course)_, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=5pAI3Rs_GTg&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB)
 - _2019 April - [UCL Neuropixels Course 2019](http://www.ucl.ac.uk/neuropixels/courses/2019-course)_
 - _2018 April - [UCL Neuropixels Course 2018](http://www.ucl.ac.uk/neuropixels/courses/2018-course)_
@@ -98,7 +98,7 @@ Non recoverable implants:
 
 ## Quality control
 - <img src="./images/matlab.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki), [talk](https://www.youtube.com/watch?v=8Gauba3KzvM&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB&index=12) at the annual Neuropixels course about quality control.
-- <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/manualCurationPhyWorkflow.md).
+- <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/manualCurationPhyWorkflow.md, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb&index=11&ab_channel=MatteoCarandini).
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
 
 ## Classifying cell types
