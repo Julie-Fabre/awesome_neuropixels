@@ -16,7 +16,7 @@ As a *last* resort, you can attempt:
   - a thin needle,
   - the hair from a small paintbrush,
   - a glass pipette with a long flexible tip
-    See [this slack thread](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1733787663368229) and the video below by Stefan Oline:
+    See [this slack thread](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1733787663368229) and the video below by Stefan Oline ([@olinesn](https://github.com/olinesn)):
     
 https://github.com/user-attachments/assets/a1e5fa78-fdc7-4025-a830-ea2415fce89d
 
