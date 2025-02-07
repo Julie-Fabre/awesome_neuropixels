@@ -23,7 +23,7 @@ A curated list of awesome Neuropixels resources, in no particular order. Create 
 <!-- END_TOC -->
 
 ## Community
-- [<img src="./images/slack.svg" width="3%"> Neuropixels slack](https://app.slack.com/client/T93QUDDCM)
+- [<img src="./images/slack.svg" width="3%"> Neuropixels slack](https://join.slack.com/t/neuropixelsgroup/shared_invite/zt-2zbcrd3dw-nr_Z6iYA8nSEERpLRqAwTA)
 
 ## Neuropixels papers and manuals
 - [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
