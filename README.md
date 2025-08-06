@@ -112,9 +112,9 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
 
 ## Classifying cell types
-- <img src="./images/matlab.svg" width="3%"> Striatal and cortical cell types: [Bombcell](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki)
-- <img src="./images/python.svg" width="3%"> [Cerebellar cell types](https://www.biorxiv.org/content/10.1101/2024.01.30.577845v2), [website](https://www.c4-database.com/)
+- <img src="./images/python.svg" width="3%"> [Cerebellar cell types](https://doi.org/10.1016/j.cell.2025.01.041), [website](https://www.c4-database.com/)
 - [PhysMAP](https://www.biorxiv.org/content/10.1101/2025.07.24.666654v1.abstract)
+- <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> Striatal cell types: [Bombcell](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki)
 
 ## Tracking cells over days
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
@@ -142,4 +142,5 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
