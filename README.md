@@ -77,7 +77,9 @@ Non recoverable implants:
 - [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 - [Open Ephys GUI](https://open-ephys.org/gui)
 - [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization).
-- Generating IMROs and channel maps - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937)
+- **Generating IMROs**:
+   - [via webinterface](https://neuropixels-channelmap-generator.pni.princeton.edu/app)
+   - via SpikeGLX [video 1](https://vimeo.com/781678605), [video 2](https://vimeo.com/783581937)
 - [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md)
 
 ## General frameworks that incorporate many of the steps below
@@ -142,5 +144,6 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
