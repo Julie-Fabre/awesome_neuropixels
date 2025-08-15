@@ -101,6 +101,8 @@ Non recoverable implants:
 - Data compression/decompression:
   - <img src="./images/python.svg" width="3%"> [compression/decompression](https://github.com/int-brain-lab/mtscomp)
   - <img src="./images/matlab.svg" width="3%"> [decompression](https://github.com/Julie-Fabre/bombcell/blob/master/decompressData/bc_extractCbinData.m)
+- Correcting motion artefacts:
+  - DREDge: [paper](https://www.nature.com/articles/s41592-025-02614-5)
 
 ## Spike-sorting
 - <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort), [paper](https://www.nature.com/articles/s41592-024-02232-7)
@@ -144,6 +146,7 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
