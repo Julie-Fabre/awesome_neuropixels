@@ -9,6 +9,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 <!-- START_TOC -->
 * [Community](#community)
 * [Neuropixels papers and manuals](#neuropixels-papers-and-manuals)
+* [Images and svgs of the probes](#images-and-SVGs-of-probes)
 * [Courses, talks and videos](#courses-talks-and-videos)
 * [Probe setup, care and sharpening](#probe-setup-care-and-sharpening)
 * [Chronic implants](#chronic-implants)
@@ -34,6 +35,9 @@ Want to add something to this list? Create a pull request, raise a github issue 
 - [Neuropixels for NHP](https://www.biorxiv.org/content/10.1101/2023.02.01.526664v3)
 - [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
 - [Opto-Neuropixels](https://www.biorxiv.org/content/10.1101/2025.02.04.636286v2)
+
+## Images and SVGs of probes
+Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images)
 
 ## Courses, talks and videos
 - **2024 October - [UCL Neuropixels Course 2024](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://youtube.com/playlist?list=PLfhWmWntvjl7SYCcrM5Qy1RFIiIIO6MK-&si=Eol8yHf8PbgLsqc3)
@@ -146,6 +150,7 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
