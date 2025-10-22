@@ -120,7 +120,7 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
 - Merging neurons:
   - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
-  - img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy), paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
+  - <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy), paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
   
 ## Classifying cell types
 - <img src="./images/python.svg" width="3%"> [Cerebellar cell types](https://doi.org/10.1016/j.cell.2025.01.041), [website](https://www.c4-database.com/)
@@ -154,6 +154,7 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
