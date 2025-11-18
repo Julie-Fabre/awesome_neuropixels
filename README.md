@@ -113,25 +113,30 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases), [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
 - <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 - Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594).
+- <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 
 ## Quality control
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki), [talk](https://www.youtube.com/watch?v=8Gauba3KzvM&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB&index=12) at the annual Neuropixels course about quality control.
 - <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy), [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md), Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb&index=11&ab_channel=MatteoCarandini).
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics)
+- [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 - Merging neurons:
   - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   - <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy), paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
-  
+ 
+
 ## Classifying cell types
 - <img src="./images/python.svg" width="3%"> [Cerebellar cell types](https://doi.org/10.1016/j.cell.2025.01.041), [website](https://www.c4-database.com/)
 - [NEMO](https://www.biorxiv.org/content/10.1101/2024.11.05.622159v2)
 - [PhysMAP](https://www.biorxiv.org/content/10.1101/2025.07.24.666654v1.abstract)
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> Striatal cell types: [Bombcell](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki)
-
+ - <img src="./images/python.svg" width="3%"> [BCIAgent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent), [paper](https://www.biorxiv.org/10.1101/2025.09.11.675660v1)
+   
 ## Tracking cells over days
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch), paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 - <img src="./images/matlab.svg" width="3%"> [Neuron_Tracking](https://github.com/AugustineY07/Neuron_Tracking), paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
-
+- <img src="./images/python.svg" width="3%"> [AutoSort](https://github.com/LiuLab-Bioelectronics-Harvard/AutoSort), [paper](https://doi.org/10.1101/2024.10.14.618046)
+  
 ## Loading and plotting data
 - <img src="./images/python.svg" width="3%"> [NeuroPyxels](https://github.com/m-beau/NeuroPyxels)
 - <img src="./images/matlab.svg" width="3%"> [Spikes](https://github.com/cortex-lab/spikes)
@@ -155,6 +160,7 @@ Non recoverable implants:
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
