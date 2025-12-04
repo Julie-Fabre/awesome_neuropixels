@@ -113,7 +113,7 @@ Non recoverable implants:
 - <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases), [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
 - <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 - Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594).
-- <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
+- <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 
 ## Quality control
 - <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell), [wiki](https://github.com/Julie-Fabre/bombcell/wiki), [talk](https://www.youtube.com/watch?v=8Gauba3KzvM&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB&index=12) at the annual Neuropixels course about quality control.
