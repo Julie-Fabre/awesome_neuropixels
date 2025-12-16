@@ -39,7 +39,8 @@ Want to add something to this list? Create a pull request, raise a github issue 
 Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images)
 
 ## Courses, talks and videos
-- **2024 October - [UCL Neuropixels Course 2024](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://youtube.com/playlist?list=PLfhWmWntvjl7SYCcrM5Qy1RFIiIIO6MK-&si=Eol8yHf8PbgLsqc3)
+- **2025 October - UCL Neuropixels Course 2025**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/playlist?list=PLfhWmWntvjl7ObKO4G1Qi7u4EkBFwTza_)
+- 2024 October - [UCL Neuropixels Course 2024](https://www.ucl.ac.uk/neuropixels/training/2024-neuropixels-course)**, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://youtube.com/playlist?list=PLfhWmWntvjl7SYCcrM5Qy1RFIiIIO6MK-&si=Eol8yHf8PbgLsqc3)
 - 2023 October - [UCL Neuropixels Course 2023](https://www.ucl.ac.uk/neuropixels/training/2023-neuropixels-course), [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=epxx_w2mhhg&list=PLfhWmWntvjl4Wi-K9Wx1Wx3WkCqpHnwaQ)
 - _2022 October - [UCL Neuropixels Course 2022](https://www.ucl.ac.uk/neuropixels/training/2022-intro-neuropixels-course)_, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=koukfLPyPSc&list=PLfhWmWntvjl7fpEDt-Ip8phYETFGUQDXc)
 - _2021 October - [UCL Neuropixels Course 2021 ](https://www.ucl.ac.uk/neuropixels/training/2021-neuropixels-course)_, [<img src="./images/youtube.svg" width="3%"> youtube videos](https://www.youtube.com/watch?v=KBjwNRp41T4&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb)
@@ -159,6 +160,7 @@ Non recoverable implants:
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
