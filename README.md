@@ -26,7 +26,8 @@ Want to add something to this list? Create a pull request, raise a github issue 
 <!-- END_TOC -->
 
 ## Community
-- <img src="./images/slack.svg" width="3%"> Neuropixels slack - now archived, discord server link coming soon
+- <img src="./images/slack.svg" width="3%"> Neuropixels slack - now archived and replaced with [Discord server](https://discord.gg/jmnneS85CY)
+  
 ## Neuropixels papers and manuals
 - [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
 - [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf)
@@ -160,6 +161,7 @@ Non recoverable implants:
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 - <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice)
 - <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS)
+
 
 
 
